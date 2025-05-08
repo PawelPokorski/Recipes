@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Recipes.Infrastructure\Recipes.Infrastructure.csproj" />
-  </ItemGroup>
-
 </Project>
